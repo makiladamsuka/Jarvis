@@ -64,8 +64,6 @@ In your project root, create a file named `.env` with this content:
 APP_TOKEN=your_openrouter_api_token_here
 ```
 
-⚠️ **Never commit this file to GitHub** (it is already ignored in
-`.gitignore`).
 
 ------------------------------------------------------------------------
 
