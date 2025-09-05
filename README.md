@@ -1,12 +1,14 @@
-# Chatbot with OpenRouter (Langflow + API)
+# Chatbot with OpenRouter (Langflow)
 
 This project demonstrates how to build and interact with a chatbot using
-**Langflow** locally and the **OpenRouter API**.
+**Langflow** both locally and the **OpenRouter API**.
 
-------------------------------------------------------------------------
+'app' folder contains a simple web app to interact with the chatbot.
+
 
 ## 📂 Project Structure
 
+-   `app` → folder contains the web app code.
 -   `api.py` → Python script to send chat requests.
 -   `Chatbot flow with Openrouter.json` → Langflow flow definition
     (import this into Langflow).
